@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "988746895979",
+    "firebase_url": "https://coding-you-16025.firebaseio.com",
+    "project_id": "coding-you-16025",
+    "storage_bucket": "coding-you-16025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988746895979:android:b163986fd15c6cf0dbd72e",
+        "android_client_info": {
+          "package_name": "com.example.codingyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988746895979-th2c04es4qurig2ehcv8g415a20mk3lr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codingyou",
+            "certificate_hash": "79a632d8d180798e560715eff2b58b069bd9fd9c"
+          }
+        },
+        {
+          "client_id": "988746895979-12sk80a9s5uf4n2jalvd21nt007uru5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8k0KIpzMqhkl2XhWDJqvrBc0NfPmccg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988746895979-12sk80a9s5uf4n2jalvd21nt007uru5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
